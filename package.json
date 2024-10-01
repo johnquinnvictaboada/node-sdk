@@ -1,7 +1,7 @@
 {
-  "name": "@utxorpc/sdk",
-  "version": "0.6.2",
-  "description": "A client library to interact with UTxO RPC compliant endpoints",
+  "name": "@chow/utxo-sdk",
+  "version": "0.1.0",
+  "description": "chow library to interact with UTxO RPC compliant endpoints",
   "main": "./lib/node/index.js",
   "module": "./lib/node/index.mjs",
   "browser": "./lib/browser/index.js",
@@ -19,7 +19,7 @@
     "utxorpc",
     "blockchain"
   ],
-  "author": "scarmuega",
+  "author": "chow",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/utxorpc/node-sdk/issues"
