@@ -1,5 +1,5 @@
 {
-  "name": "@chow/utxo-sdk",
+  "name": "chow-utxo-sdk",
   "version": "0.1.0",
   "description": "chow library to interact with UTxO RPC compliant endpoints",
   "main": "./lib/node/index.js",
